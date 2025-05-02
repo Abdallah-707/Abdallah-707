@@ -37,7 +37,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 
 ###### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://iplogger.com/24Myq8)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <img align="right" width=310px alt="Unicorn" src="https://tenor.com/view/iron-man-tony-stark-thinking-gif-20827952.gif"/>
