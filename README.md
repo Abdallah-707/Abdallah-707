@@ -126,6 +126,3 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<!--
-<img src="https://tenor.com/view/tony-stark-iron-man-rdj-robert-downey-jr-gif-14889389.gif" width="100%">
--->
