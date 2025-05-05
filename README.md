@@ -42,14 +42,14 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 
 <img align="right" width=310px alt="Unicorn" src="https://tenor.com/view/iron-man-tony-stark-thinking-gif-20827952.gif"/>
 
-#### Machine Learning & Deep Learning  
+###### Machine Learning & Deep Learning  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0F9D58?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
 
-#### Computer Vision  
+###### Computer Vision  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![MMDetection](https://img.shields.io/badge/MMDetection-07C160?style=for-the-badge&logo=tencentqq&logoColor=white)
