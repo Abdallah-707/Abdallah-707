@@ -7,9 +7,11 @@
 <img align="right" width=200px alt="Unicorn" src="https://tenor.com/view/tonystark-gif-20634708.gif"/>
 
 I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both Computer Vision and NLP. I have experience as a Machine Learning Engineer at Scale AI, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, and creative.
+<!--
 - 📚 I’m currently learning ...
   - *Instance Segmentation*
   - *Unet*
+-->
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - 📫 Reach out to me at: <a href="abdallah.hesham.us@gmail.com">abdallah.hesham.us@gmail.com</a>
